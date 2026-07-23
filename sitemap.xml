@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.990304.xyz/categories/index.html</loc>
+    
+    <lastmod>2026-07-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.990304.xyz/f8e09374.html</loc>
     
     <lastmod>2026-07-23</lastmod>
@@ -291,15 +300,6 @@
   
   <url>
     <loc>https://blog.990304.xyz/tags/index.html</loc>
-    
-    <lastmod>2022-09-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.990304.xyz/categories/index.html</loc>
     
     <lastmod>2022-09-28</lastmod>
     
